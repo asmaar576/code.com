@@ -1,0 +1,6 @@
+[GAME_START]
+Players = 2
+CardsEach = 7
+[STARTING_HANDS]
+Player 1: Red-REV, Yellow-2, Blue-0, Blue-8, Blue-9, None-WILD, Red-3
+Player 2: Blue-REV, Blue-SKIP, Green-+2, Yellow-8, Green-REV, Yellow-0, Green-4
